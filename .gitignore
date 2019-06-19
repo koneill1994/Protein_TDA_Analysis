@@ -1,0 +1,5 @@
+*.png
+*.gif
+/datasets/*
+/Data/*
+/plots/*
