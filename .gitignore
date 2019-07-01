@@ -3,3 +3,5 @@
 /datasets/*
 /Data/*
 /plots/*
+/computed_distance_cache/*
+/computed_ground_truth_cache/*
